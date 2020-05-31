@@ -1,0 +1,4 @@
+#Sun May 31 11:38:37 CST 2020
+base.0=/home/dmr1204/Workspaces/react-native/movies_app/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
